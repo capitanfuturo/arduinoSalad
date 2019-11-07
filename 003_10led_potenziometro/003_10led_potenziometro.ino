@@ -1,7 +1,8 @@
 /**
  * MIT License - Copyright (c) 2020 Giuseppe Caliendo
- * Esercizio #2 Uso di un potenziometro su una uscita
- * analogica. Sfruttando il valore rilevato dal potenziometro
+ * 
+ * Uso di un potenziometro su una uscita analogica. 
+ * Sfruttando il valore rilevato dal potenziometro
  * pilotare la velocita' del gioco di accensione di 10
  * LED in linea in stile KITT di supercar.
  */
@@ -21,7 +22,7 @@ void setup() {
     pinMode(ledPin[i], OUTPUT);
   }
 
-  //vci mettiamo in ascolto della seriale
+  // ci mettiamo in ascolto della seriale
   Serial.begin(9600);
   while (!Serial) {
     // no-op

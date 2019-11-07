@@ -1,6 +1,6 @@
 /**
  * MIT License - Copyright (c) 2019 Giuseppe Caliendo
- * Esercizio #1
+ * 
  * Accensione e spegnimento del LED 13
  */
 const unsigned int LED_PIN = 13;

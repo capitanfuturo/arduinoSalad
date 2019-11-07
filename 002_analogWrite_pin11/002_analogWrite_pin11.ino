@@ -1,6 +1,6 @@
 /**
  * MIT License - Copyright (c) 2019 Giuseppe Caliendo
- * Esercizio #1 (variante 2)
+ * 
  * Uso della tecnica PWN per giocare sulla luminosita'
  * di un LED collegato al PIN 11
  */
