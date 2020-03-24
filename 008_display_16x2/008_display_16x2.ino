@@ -1,7 +1,7 @@
 /*
  * MIT License - Copyright (c) 2020 Giuseppe Caliendo
  *
- * Utilizzo di un display LCD 16x2 LCD display con l'aiuto della libreria 
+ * Utilizzo di un display LCD 16x2 LCD display con l'ausilio della libreria 
  * LiquidCrystal compatibile con gli Hitachi HD44780. 
  */
 #include <LiquidCrystal.h>
