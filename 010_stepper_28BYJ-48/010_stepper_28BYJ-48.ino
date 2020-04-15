@@ -6,11 +6,11 @@
  */
 #include <Stepper.h>
 
-static const int STEPS_PER_REVOLUTION     = 24 * 64;
-static const int PIN_IN1_BLUE             = 8;
-static const int PIN_IN2_PINK             = 9;
-static const int PIN_IN3_YELLOW           = 10;
-static const int PIN_IN4_ORANGE           = 11;
+const unsigned int STEPS_PER_REVOLUTION     = 24 * 64;
+const unsigned int PIN_IN1_BLUE             = 8;
+const unsigned int PIN_IN2_PINK             = 9;
+const unsigned int PIN_IN3_YELLOW           = 10;
+const unsigned int PIN_IN4_ORANGE           = 11;
 
 Stepper myStepper(STEPS_PER_REVOLUTION, PIN_IN1_BLUE, PIN_IN3_YELLOW, PIN_IN2_PINK, PIN_IN4_ORANGE);
 
