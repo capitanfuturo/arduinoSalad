@@ -26,7 +26,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at giuseppe.caliendo [AT] gmail.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
