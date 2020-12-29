@@ -5,15 +5,17 @@ Arduino Salad is a simple `repo` that contains arduino's sketches described in m
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
+
 * You have an Arduino board.
 * Arduino IDE installed on your PC.
 * You have already used a *.ino file.
 
 ## Using Arduino Salad
 
-Feel free to use the code inner the *.ino files. :-)
+Feel free to use the code inner the *.ino files. :smile:
 
-## Contributing to <project_name>
+## Contributing to ArduinoSalad
+
 To contribute to Arduino Salad, follow these steps:
 
 1. Fork this repository.
