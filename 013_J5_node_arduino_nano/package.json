@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "got": "^11.8.5",
+    "got": "^12.5.3",
     "johnny-five": "2.0.0"
   }
 }
